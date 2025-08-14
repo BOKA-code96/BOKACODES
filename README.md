@@ -17,7 +17,7 @@
 - 🔭 Currently working on **AI automation projects** and **prompt design frameworks**  
 - 🌱 Learning: LangChain, LlamaIndex, OpenAI API integration  
 - 💬 Ask me about **AI, Python, Prompt Engineering, or Web Development**  
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/darshan-shetty-738197360/) | **darshanbrock25@gmail.com**  
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/darshan-shetty-738197360/) | **darshanshetty9696@gmail.com**  
 - ⚡ Fun fact: I believe AI can *supercharge* creativity if used wisely
 
 ---
