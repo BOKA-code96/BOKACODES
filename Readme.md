@@ -1,5 +1,7 @@
 <!-- Banner -->
-![Darshan Banner]([https://img.shields.io/badge/AI%20Prompt%20Engineer-%F0%9F%A4%96-blueviolet?style=for-the-badge](https://evenbound.com/blog/ai-prompt-engineering))
+![Darshan Banner](darshan-banner.png)
+
+![AI Prompt Engineer](https://img.shields.io/badge/AI%20Prompt%20Engineer-%F0%9F%A4%96-blueviolet?style=for-the-badge)
 ![Computer Science](https://img.shields.io/badge/Master's%20in%20CS-%F0%9F%93%96-royalblue?style=for-the-badge)
 ![OpenAI](https://img.shields.io/badge/OpenAI-Developer-black?style=for-the-badge)
 
@@ -15,7 +17,7 @@
 - 🔭 Currently working on **AI automation projects** and **prompt design frameworks**  
 - 🌱 Learning: LangChain, LlamaIndex, OpenAI API integration  
 - 💬 Ask me about **AI, Python, Prompt Engineering, or Web Development**  
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/darshan-shetty-738197360/) | **darshanshetty9696@gmail.com**  
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/darshan-shetty-738197360/) | **darshanbrock25@gmail.com**  
 - ⚡ Fun fact: I believe AI can *supercharge* creativity if used wisely
 
 ---
@@ -62,3 +64,4 @@ Responsive personal portfolio built with HTML, CSS, and JavaScript.
 ---
 
 ⭐ **"Code is today's language of creativity — let's build something amazing!"**
+
